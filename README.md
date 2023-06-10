@@ -5,7 +5,13 @@
 ## Installation
 
 1. Install [addtopath](https://github.com/Simatwa/addtopath)
-2. Execute `addtopath main.py ch`
+2. Clone repo 
+
+```sh
+git clone https://github.com/Simatwa/cookie-hunter.git
+cd cookie-hunter
+```
+3. Execute `addtopath main.py ch`
 
 ## Usage
 - Export cookies with `Cookies-to-Json` Chrome Extension.
