@@ -9,12 +9,16 @@
 
 ## Usage
 - Export cookies with `Cookies-to-Json` Chrome Extension.
-- `$ ch <path-to-the.json-file-exported>
+- `$ ch <path-to-the.json-file-exported>`
 
 <details>
+
 <summary>
+
 * For more info you can run `$ ch -h`
+
 </summary>
+
 ```
 usage: main.py [-h] [-i n] [-g KEY] [-p PATH]
                [--zero-mapping]
